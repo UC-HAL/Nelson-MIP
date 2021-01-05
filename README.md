@@ -2,13 +2,13 @@
 
 This file contains a brief description of the used datasets, simulation period, etc. to enable ease of access to such information. Please refer to the [Wiki_info](https://github.com/MIsmlAhmed/Nelson-MiP/) directory for more detailed information. <br>
 
-* **Datasets <br>
-    *DEM <br>
+* **Datasets** <br>
+    * DEM <br>
         1. item 1
         2. item 2
-    *Forcing <br>
+    * Forcing <br>
         1. item 1
         2. item 2
         
         
-* **Simulation period <br>
+* **Simulation period** <br>
