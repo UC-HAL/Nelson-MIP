@@ -1,6 +1,6 @@
 # Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MiP) 
 
-This file contains a brief description of the used datasets, simulation period, etc. to enable ease of access to such information. Please refer to the [Wiki_info](https://github.com/MIsmlAhmed/Nelson-MiP/) directory for more detailed information. <br>
+This file contains a brief description of the used datasets, simulation period, etc. to enable ease of access to such information. Please refer to the [Wiki_info](https://github.com/MIsmlAhmed/Nelson-MiP/Wiki_info) directory for more detailed information. <br>
 
 * **Datasets** <br>
     * DEM <br>
