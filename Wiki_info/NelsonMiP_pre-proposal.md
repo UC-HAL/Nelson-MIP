@@ -1,4 +1,11 @@
 # Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MiP) 
+
+<!--ts-->
+
+   * [Objectives](#Objectives)
+
+<!--te-->
+   
 # Objectives 
 The objectives of this research project led by the University of Calgary-Hydrologic Analysis Lab (UC-HAL) on a sub-watershed of the Saskatchewan-Nelson-Churchill river basin are to: 
 1. compare participating hydrologic and land surface models with respect to their performance in reproducing long-term runoff and various hydrologic signatures; 
