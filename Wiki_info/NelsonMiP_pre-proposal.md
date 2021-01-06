@@ -1,9 +1,24 @@
 # Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MiP) 
 
 <!--ts-->
-
+# Table of content
    * [Objectives](#Objectives)
-
+   * [Project phases](#Project-phases)
+   * [Deliverables](#Deliverables)
+   * [Design of the modeling experiments](#Design-of-the-modeling-experiments)
+   	* [1. Input data](#1.-Input-data)
+		* [DEM](#DEM-and-derived-products)
+		* [Land use/land cover](#Land-use/land-cover)
+		* [Soil data](#Soil-data)
+		* [Water table depth](#Water-table-depth)
+		* [Meteorological/ Climate forcing data](#Meteorological/-Climate-forcing-data)
+		* [Remote sensing data](#Remote-sensing-data-for-model-validation-(to-be-determined))
+		* [Hydrometric data](#Hydrometric-data)
+	* [2. Model calibration and validation](#2.-Model-calibration-and-validation)
+		* [Metrics for model calibration and validation](#Metrics-for-model-calibration-and-validation)
+   * [Nelson-MiP survey](#Nelson-MiP-survey)
+   * [19 CMIP5 bias-corrected GCMs for Phase 3](#19-CMIP5-bias-corrected-GCMs-for-Phase 3)
+   
 <!--te-->
    
 # Objectives 
