@@ -6,16 +6,16 @@
    * [Project phases](#project-phases-tentative)
    * [Deliverables](#deliverables)
    * [Reporting](#reporting)
-   * [Design of the modeling experiments](#design-of-the-modeling-experiments
-   	* [1. Input data](#1-input-data)
+   * [Design of the modeling experiments](#design-of-the-modeling-experiments)<br>
+	[1. Input data](#1-input-data)
 		* [DEM](#dem-and-derived-products)
 		* [Land use/land cover](#land-useland-cover)
 		* [Soil data](#soil-data)
 		* [Water table depth](#water-table-depth)
 		* [Meteorological/ Climate forcing data](#meteorological-climate-forcing-data)
 		* [Remote sensing data](#remote-sensing-data-for-model-validation)
-		* [Hydrometric data](#hydrometric-data)
-	* [2. Model calibration and validation](#2-model-calibration-and-validation)
+		* [Hydrometric data](#hydrometric-data)<br>
+	[2. Model calibration and validation](#2-model-calibration-and-validation)
 		* [Metrics for model calibration and validation](#metrics-for-model-calibration-and-validation)
    * [Nelson-MiP survey](#Nelson-MiP-survey)
    * [19 CMIP5 bias-corrected GCMs for Phase 3](#19-CMIP5-bias-corrected-GCMs-for-Phase 3)
