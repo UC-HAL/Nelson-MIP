@@ -5,7 +5,7 @@
    <img src="https://github.com/MIsmlAhmed/Nelson-MiP/blob/main/Wiki_info/img/logos/IMPC_Horizontal_FC.png" width="30%" height="8%" />
 </p>
 
-This README file contains a brief description of the used datasets, simulation period, etc., to enable quick and ease of access to such information. Please refer to the [Wiki_info](https://github.com/MIsmlAhmed/Nelson-MiP/tree/main/Wiki_info) directory for more detailed information. <br>
+This README file contains a brief description of the used datasets, simulation period, etc., to enable quick and ease of access to such information. Please refer to the [Wiki page](https://github.com/MIsmlAhmed/Nelson-MiP/tree/main/Wiki_info) for more detailed information. <br>
 
 * **Datasets** <br>
     * DEM <br>
