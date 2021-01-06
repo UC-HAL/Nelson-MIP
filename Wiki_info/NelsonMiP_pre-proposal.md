@@ -2,20 +2,21 @@
 
 <!--ts-->
 # Table of content
-   * [Objectives](#Objectives)
-   * [Project phases](#Project-phases)
-   * [Deliverables](#Deliverables)
-   * [Design of the modeling experiments](#Design-of-the-modeling-experiments)
-   	* [1. Input data](#1.-Input-data)
-		* [DEM](#DEM-and-derived-products)
-		* [Land use/land cover](#Land-use/land-cover)
-		* [Soil data](#Soil-data)
-		* [Water table depth](#Water-table-depth)
-		* [Meteorological/ Climate forcing data](#Meteorological/-Climate-forcing-data)
-		* [Remote sensing data](#Remote-sensing-data-for-model-validation-(to-be-determined))
-		* [Hydrometric data](#Hydrometric-data)
-	* [2. Model calibration and validation](#2.-Model-calibration-and-validation)
-		* [Metrics for model calibration and validation](#Metrics-for-model-calibration-and-validation)
+   * [Objectives](#objectives)
+   * [Project phases](#project-phases-tentative)
+   * [Deliverables](#deliverables)
+   * [Reporting](#reporting)
+   * [Design of the modeling experiments](#design-of-the-modeling-experiments
+   	* [1. Input data](#1-input-data)
+		* [DEM](#dem-and-derived-products)
+		* [Land use/land cover](#land-useland-cover)
+		* [Soil data](#soil-data)
+		* [Water table depth](#water-table-depth)
+		* [Meteorological/ Climate forcing data](#meteorological-climate-forcing-data)
+		* [Remote sensing data](#remote-sensing-data-for-model-validation)
+		* [Hydrometric data](#hydrometric-data)
+	* [2. Model calibration and validation](#2-model-calibration-and-validation)
+		* [Metrics for model calibration and validation](#metrics-for-model-calibration-and-validation)
    * [Nelson-MiP survey](#Nelson-MiP-survey)
    * [19 CMIP5 bias-corrected GCMs for Phase 3](#19-CMIP5-bias-corrected-GCMs-for-Phase 3)
    
@@ -84,18 +85,18 @@ Beyond surface runoff, all variables (e.g. SWE, evapotranspiration, soil moistur
 # Design of the modeling experiments 
 
 A private GitHub repository will be used for data sharing. Only modelers involved in the project will have a secure access to the data. Monthly meetings will be scheduled, and modelers will report on the advancement of their work and discuss challenges. Deadlines will be set for reporting for Phase 0 through Phase 3 and modelers are encouraged to send their simulations to the project leader by the deadlines.  
-## 1. Input data <br>
+## 1. Input data<br>
 	
 A standardized set of geophysical data and meteorological/climate forcing data will be provided for this research project.
 	
-### DEM and derived products <br>
+### DEM and derived products<br>
 We can choose either HydroSHEDS data products at 3s resolution (~90 m) or the MERIT Hydro data products.  
 
 
 UC-HAL team can provide the routing to be used by other teams. This will ensure consistency in the watershed and sub-basins delineation (i.e. across models using a sub-watershed discretization the sub-basins will have the same size). However, other teams are welcome to use their own routing derived from the standardized DEM products if preferred.  
 MERIT Hydro is a new global flow direction map at 3 arc-second resolution (~90 m at the equator) derived from the latest elevation data (MERIT DEM) and water body datasets (G1WBM, GSWO, and OpenStreetMap).  It contains flow direction, flow accumulation, hydrologically adjusted elevations, and river channel width (http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/). The MERIT DEM was developed by removing multiple error components (absolute bias, stripe noise, speckle noise, and tree height bias) from the existing spaceborne DEMs (SRTM3 v2.1 and AW3D-30m v1). It represents the terrain elevations at a 3sec resolution (~90m at the equator), and covers land areas between 90N-60S, referenced to EGM96 geoid. Hydrologically adjusted DEM is now available as a component of MERIT Hydro datasets (http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/). For access we shall contact Dan Yamadai at yamadai@iis.u-tokyo.ac.jp.
 	
-### Land use/land cover <br>
+### Land use/land cover<br>
 North American Land Change Monitoring System (NALCMS) at 30m resolution or 2010 Land Cover of Canada at 30m resolution.
 
 
@@ -125,7 +126,8 @@ All hydrological models will be calibrated and validated using the WFDEI-GEM-CaP
 
 For future climate change impact predictions, we will use a set of 19 GCM projections spanning a range of plausible future climates under RCP4.5 and RCP8.5 representative concentration pathways. The GCM simulations are already bias-corrected by Ouranos Inc using a cumulative quantile mapping method and readily available from UC-HAL.
 
-### Remote sensing data for model validation (to be determined) 
+### Remote sensing data for model validation
+**(to be determined)** 
 
 We suggest validating hydrologic processes such as snow water equivalent (SWE), evapotranspiration, soil temperature, surface storage, soil moisture, groundwater recharge. The selection of remotely sensed products for the validation of key hydrologic processes will be finalized by the launch date of this project (Fall 2020). 
 
