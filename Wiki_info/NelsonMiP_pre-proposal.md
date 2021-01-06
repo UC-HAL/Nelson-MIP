@@ -6,8 +6,8 @@
    * [Project phases](#project-phases-tentative)
    * [Deliverables](#deliverables)
    * [Reporting](#reporting)
-   * [Design of the modeling experiments](#design-of-the-modeling-experiments)<br>
-	[1. Input data](#1-input-data)
+   * [Design of the modeling experiments](#design-of-the-modeling-experiments)
+	* [Input data](#input-data)
 		* [DEM](#dem-and-derived-products)
 		* [Land use/land cover](#land-useland-cover)
 		* [Soil data](#soil-data)
@@ -15,7 +15,7 @@
 		* [Meteorological/ Climate forcing data](#meteorological-climate-forcing-data)
 		* [Remote sensing data](#remote-sensing-data-for-model-validation)
 		* [Hydrometric data](#hydrometric-data)<br>
-	[2. Model calibration and validation](#2-model-calibration-and-validation)
+	* [Model calibration and validation](#model-calibration-and-validation)
 		* [Metrics for model calibration and validation](#metrics-for-model-calibration-and-validation)
    * [Nelson-MiP survey](#Nelson-MiP-survey)
    * [19 CMIP5 bias-corrected GCMs for Phase 3](#19-CMIP5-bias-corrected-GCMs-for-Phase 3)
@@ -85,7 +85,7 @@ Beyond surface runoff, all variables (e.g. SWE, evapotranspiration, soil moistur
 # Design of the modeling experiments 
 
 A private GitHub repository will be used for data sharing. Only modelers involved in the project will have a secure access to the data. Monthly meetings will be scheduled, and modelers will report on the advancement of their work and discuss challenges. Deadlines will be set for reporting for Phase 0 through Phase 3 and modelers are encouraged to send their simulations to the project leader by the deadlines.  
-## 1. Input data<br>
+## Input data<br>
 	
 A standardized set of geophysical data and meteorological/climate forcing data will be provided for this research project.
 	
@@ -135,7 +135,7 @@ We suggest validating hydrologic processes such as snow water equivalent (SWE), 
 
 These sets of streamflow gauging data will be derived from the Water Survey Canada and USGS databases. The selected gauge stations should have a drainage area above 200 km2. 2/3 of the gauge stations will be used for model calibration and the remaining stations for model validation.  
 
-## 2. Model calibration and validation 
+## Model calibration and validation 
 
 The gauging stations for model calibration and validation will be selected after the modelers have all agreed on the modeling domain. We may consider doing a spatial and/or temporal validation depending on the temporal and spatial coverage of the gauge data over the selected sub-basin and modelers’ opinion. The time period for calibration and/or validation will be determined later depending of the gauging stations selection and data availability. 
 
