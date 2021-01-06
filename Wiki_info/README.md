@@ -65,8 +65,8 @@ The objectives of this research project led by the University of Calgary-Hydrolo
 
 | Institutions | Contact persons |
 | :---: | :---: |  
-|ECCC |<a href="mailto:frank.seglenieks@canada.ca ">Frank Seglenieks </a> <br> <a href="mailto:daniel.princz@canada.ca">Daniel Princz </a> <br> <a href="mailto:andreguy.temgoua@canada.ca">André Guy Temgoua </a><br> <a href="mailto:narayan.shrestha@canada.ca">Narayan Shrestha </a><br>|
-|University of Waterloo | <a href="mailto:btolson@uwaterloo.ca ">Bryan Tolson </a>|
+|ECCC |<a href="mailto:frank.seglenieks@canada.ca">Frank Seglenieks </a> <br> <a href="mailto:daniel.princz@canada.ca">Daniel Princz </a> <br> <a href="mailto:andreguy.temgoua@canada.ca">André Guy Temgoua </a><br> <a href="mailto:narayan.shrestha@canada.ca">Narayan Shrestha </a><br>|
+|University of Waterloo | <a href="mailto:btolson@uwaterloo.ca">Bryan Tolson </a>|
 |University of Saskatchewan | <a href="mailto:mohamed.elshamy@usask.ca">Mohamed Elshamy </a><br> <a href="mailto:saman.razavi@usask.ca">Saman Razavi </a><br> <a href="mailto:laila.balkhi@usask.ca">Laila Balkhi </a><br> <a href="mailto:hayley.carlson@usask.ca">Hayley Carlson </a><br>|
 |TransAlta | <a href="mailto:German_Mojica@transalta.com">German Mojica </a>|
 |Alberta Environment and Parks (AEP) | <a href="mailto:Khaled.Akhtar@gov.ab.ca">Khaled Akhtar </a>|
