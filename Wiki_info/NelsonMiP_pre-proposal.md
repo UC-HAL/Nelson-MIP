@@ -9,7 +9,7 @@
    * [Design of the modeling experiments](#design-of-the-modeling-experiments)
       * [Input data](#input-data)
           	
-		* [DEM and](#dem-and-derived-products)
+		* [DEM](#dem-and-derived-products)
 	  	* [Land use/land cover](#land-useland-cover)
 	  	* [Soil data](#soil-data)
 	  	* [Water table depth](#water-table-depth)
