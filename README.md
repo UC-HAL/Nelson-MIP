@@ -2,7 +2,7 @@
 **Funded under IMPC project of Global Water Futures program.**
 
 <p align="center">
-   <img src="Wiki_info/img/logos/IMPC_Horizontal_FC.png" width="30%" height="8%" hspace="20%" />
+   <img src="Wiki_info/img/logos/IMPC_Horizontal_FC.png" width="30%" height="8%" hspace="0.5%" />
    <img src="Wiki_info/img/logos/gwf_globe.png" width="9.5%" height="10%"  />
 </p>
 
