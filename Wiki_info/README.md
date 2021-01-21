@@ -47,7 +47,7 @@ The objectives of this research project led by the University of Calgary-Hydrolo
 
 | Model | Watersheds/Scale | Institutions | Contact persons |
 | :---: | :---: |  :---: | :---: |
-|HYPE  |	Nelson Churchill  |	UC-HAL |	<a href="mailto:tricia.stadnyk@ucalgary.ca">Tricia Stadnyk </a><br> <a href="mailto:oyemonbade.awoye@ucalgary.ca">Hervé Awoye </a><br> <a href="mailto:ajay.bajracharya@ucalgary.ca">Ajay Bajracharya </a><br>|
+|HYPE  |	Nelson Churchill  |	UC-HAL |	<a href="mailto:tricia.stadnyk@ucalgary.ca">Tricia Stadnyk </a><br> <a href="mailto:mohamedismaiel.ahmed@ucalgary.ca">Mohamed Ismaiel Ahmed </a><br> <a href="mailto:oyemonbade.awoye@ucalgary.ca">Hervé Awoye </a><br> <a href="mailto:ajay.bajracharya@ucalgary.ca">Ajay Bajracharya </a><br>|
 |SWAT-GIW  |	Upper Assiniboine  |	Water Security Agency |	<a href="mailto:Ameer.Muhammad@wsask.ca">Ameer Muhammad </a><br> <a href="mailto:curtis.hallborg@wsask.ca">Curtis Hallborg </a><br>|
 |SWAT-RRB  |	Red River Basin  |	University of Manitoba |	<a href="mailto:Masoud.Asadzadeh@umanitoba.ca">Masoud Asadzadeh </a><br> <a href="mailto:huangy32@myumanitoba.ca">Yinlong Huang </a><br>|
 |SWAT-GWF  |	Nelson  |	University of Alberta |	<a href="mailto:faramarz@ualberta.ca">Monireh Faramarzi </a><br> <a href="mailto:khalili@ualberta.ca">Pouya Khalili </a><br> <a href="mailto:masud@ualberta.ca">Badrul Masud </a><br> <a href="mailto:Quan.Cui@ualberta.ca">Quan Cui </a><br>|
