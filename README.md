@@ -36,7 +36,11 @@
    * Water Survey of Canada.
    * USGS databases
 ## Model calibration and validation
-   To be determined later (We may consider doing a spatial and/or temporal validation depending on the temporal and spatial coverage of the gauge data)
+   Model simulations (Hydrologic year, September to October)
+   Selected gauging station for calibration of Phase 1 can be found [here](/Monthly_reports/2020-02-12)
+   * Model spin-up: 1979-1982
+   * Calibration period: 1992-2008
+   * Validation periods: 1983-1991 & 2009-2016
 
 ## Monthly meetings reports
    Monthly reports can be found [here](/Monthly_reports).
