@@ -1,3 +1,5 @@
+# ⚠️ We have migrated from Github to SharePoint. Please email me for access to the SharePoint site.
+
 # Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MiP) 
 **Funded under IMPC project of Global Water Futures program.**
 
