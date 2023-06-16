@@ -1,49 +1,26 @@
-# ⚠️ We have migrated from Github to SharePoint. Please email me for access to the SharePoint site.
-
-# Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MiP) 
+# Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MIP) 
 **Funded under IMPC project of Global Water Futures program.**
 
 <p align="center">
-   <img src="Wiki_info/img/logos/IMPC_Horizontal_FC.png" width="30%" height="8%" hspace="0.5%" />
-   <img src="Wiki_info/img/logos/gwf_globe.png" width="9.5%" height="10%"  />
+   <img src="img/IMPC_Horizontal_FC.png" width="30%" height="8%" hspace="0.5%" />
+   <img src="img/gwf_globe.png" width="9.5%" height="10%"  />
 </p>
 
-**This README file contains a brief description of the used datasets, simulation period, etc., to enable quick and ease of access to such information. Please refer to the [Wiki](/Wiki_info/README.md) page for more detailed information.** <br>
+**This README file contains a brief description of the Nelson-MIP project. Please refer to the [published article](https://doi.org/10.1016/j.jhydrol.2023.129820) for more detailed information.** <br>
 
-------
-**Please note that the repo is still under development.**
-<p align="center">
-   <img src="Wiki_info/img/dev_web.png" width="50%" height="10%" />
-</p>
 
 ------
 
-## Datasets
-   A detailed description of the datasets is provided [here](Wiki_info/README.md/#input-data)
-   ### DEM 
-   * HydroSHEDS data products at 3 arc-second resolution (~90 m). Original data can be downloaded from this [link](https://www.hydrosheds.org/downloads).
-   * MERIT Hydro data products at 3 arc-second resolution (~90 m). Original data can be downloaded from this [link](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/).
-        
-   ### Land use/cover data <br>
-   * North American Land Change Monitoring System (NALCMS) at 30m resolution. Original data can be downloaded from this [link](https://open.canada.ca/data/en/dataset/c688b87f-e85f-4842-b0e1-a8f79ebf1133).
-   * 2010 Land Cover of Canada at 30m resolution. Original data can be downloaded from this [link](http://www.cec.org/tools-and-resources/map-files/land-cover-2010-landsat-30m).
-    
-   ### Soil data <br>
-   * Global Soil Dataset for Earth System Modelling (GSDE). Original data can be downloaded from this [link](http://globalchange.bnu.edu.cn/research/soilw#download).
-   ### Meteorological forcing data 
-   * WFDEI-GEM-CaPA (3-hourly x 0.125ᵒ - 1979- 2016). Original data can be downloaded from this [link](https://www.frdr.ca/repo/handle/doi:10.20383/101.0111).
-   * ERA-5 reanalysis product (1979-near real time, 1-hourly, 30km-grid). Original data can be downloaded from this [link](https://cds.climate.copernicus.eu/#!/search?text=ERA5&type=dataset).
-   ### Hydrometric data
-   The selected gauge stations should have a drainage area above 200 km^2
-   * Water Survey of Canada.
-   * USGS databases
-## Model calibration and validation
-   Model simulations (Hydrologic year, September to October) <br>
-   * Selected gauging station for calibration of Phase 1 can be found [here](/Monthly_reports/2020-02-12)
-   * Model spin-up: 1979-1982
-   * Calibration period: 1992-2008
-   * Validation periods: 1983-1991 & 2009-2016
+   ## Abstract:
+   Intercomparison studies play an important, but limited role in understanding the usefulness and limitations of currently available hydrological models. Comparison studies are often limited to well-behaved hydrological regimes, where rainfall-runoff processes dominate the hydrological response. These efforts have not covered western Canada due to the difficulty in simulating that region’s complex cold region hydrology with varying spatiotemporal contributing areas. This intercomparison study is the first of a series of studies under the intercomparison project of the international and interprovincial transboundary Nelson-Churchill River Basin (NCRB) in North America (Nelson-MIP), which encompasses different ecozones with major areas of the non-contributing Prairie potholes, forests, glaciers, mountains, and permafrost. The performance of eight hydrological and land surface models is compared at different unregulated watersheds within the NCRB. This is done to assess the models’ streamflow performance and overall fidelity without and with calibration, to capture the underlying physics of the region and to better understand why models struggle to accurately simulate its hydrology. Results show that some of the participating models have difficulties in simulating streamflow and/or internal hydrological variables (e.g., evapotranspiration) over Prairie watersheds but most models performed well elsewhere. This stems from model structural deficiencies, despite the various models being well calibrated to observed streamflow. Some model structural changes are identified for the participating models for future improvement. The outcomes of this study offer guidance for practitioners for the accurate prediction of NCRB streamflow, and for increasing confidence in future projections of water resources supply and management.
 
-## Monthly meetings reports
-   Monthly reports can be found [here](/Monthly_reports).
+   ## Citation (Journal Publication): To be updated
+
+   
+   ## Dataset:
+   The used dataset (inputs and model outputs) used in this study are publicly available on the [Federated Research Data Repository](https://doi.org/10.20383/102.0705). The data can be cited as: <br>
+   Ahmed, M. , Stadnyk, T. , Pietroniro, A. , Awoye, H. , Bajracharya, A. , Mai, J. , Tolson, B. , Shen, H. , Craig, J. , Gervais, M. , Sagan, K. , Wruth, S. , Koenig, K. , Lilhare, R. , Déry, S. , Pokorny, S. , Venema, H. , Muhammad, A. , Taheri, M. (2023) Learning From Hydrological Models’ Challenges: A Case Study from the Nelson Basin Model Intercomparison Project. Federated Research Data Repository. https://doi.org/10.20383/102.0705
+   
+## Interactive Maps
+   Interactive maps are available to further explore the results of the study in a dynamic approach. The interactive maps can be viewed [here](https://uc-hal.github.io/projects.html#Nelson-MIP)
    
