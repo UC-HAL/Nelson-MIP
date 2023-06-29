@@ -2,8 +2,7 @@
 **Funded under IMPC project of Global Water Futures program.**
 
 <p align="center">
-   <img src="img/IMPC_Horizontal_FC.png" width="30%" height="8%" hspace="0.5%" />
-   <img src="img/gwf_globe.png" width="9.5%" height="10%"  />
+   <img src="img/IMPC_GWF_horz.png" width="60%" height="30%" hspace="0.5%" />
 </p>
 
 **This README file contains a brief description of the Nelson-MIP project. Please refer to the [published article](https://doi.org/10.1016/j.jhydrol.2023.129820) for more detailed information.** <br>
